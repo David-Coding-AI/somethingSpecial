@@ -2,7 +2,11 @@
   "devDependencies": {
     "@types/node": "^22.13.10",
     "codeceptjs": "^3.7.2",
+    "playwright": "^1.51.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "cucumber": "^6.0.7"
   }
 }
