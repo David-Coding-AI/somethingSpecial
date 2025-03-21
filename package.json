@@ -1,4 +1,7 @@
 {
+  "scripts":
+  {  "executeOne": "npx codeceptjs run --features features/basic.feature"  },
+
   "devDependencies": {
     "@types/node": "^22.13.10",
     "codeceptjs": "^3.7.2",

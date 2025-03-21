@@ -3,7 +3,7 @@ exports.config = {
   helpers: {
     Playwright: {
       browser: 'chromium',
-      url: 'http://localhost',
+      url: 'https://google.com',
       show: true
     }
   },
