@@ -3,7 +3,7 @@ exports.config = {
   helpers: {
     Playwright: {
       browser: 'chromium',
-      url: 'https://github.com/David-Coding-AI/somethingSpecial',
+      url: 'https://dyprodam1.am1.bartendercloud.com/BarTender',
       show: true
     }
   },

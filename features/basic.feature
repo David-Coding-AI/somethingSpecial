@@ -1,8 +1,5 @@
-Feature: Business rules
-  In order to achieve my goals
-  As a persona
-  I want to be able to interact with a system
+Feature: Login Bartender Cloud
 
-  Scenario: do something
-    Given I have a defined step
-    When I do something
+  Scenario: Valid login
+    Given I am in BTC
+    When I login with valid credentials
