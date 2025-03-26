@@ -3,7 +3,7 @@ exports.config = {
   helpers: {
     Playwright: {
       browser: 'chromium',
-      url: 'https://google.com',
+      url: 'https://github.com/David-Coding-AI/somethingSpecial',
       show: true
     }
   },
