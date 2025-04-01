@@ -1,0 +1,76 @@
+How found:	Mouse move (2892,1319)
+	hwnd=0x00011154 32bit class="Button" style=0x50010009 ex=0x4
+Name:	"I accept the terms in the license agreement"
+ControlType:	UIA_RadioButtonControlTypeId (0xC35D)
+LocalizedControlType:	"radio button"
+BoundingRectangle:	{l:2612 t:1310 r:2953 b:1334}
+IsEnabled:	true
+IsOffscreen:	false
+IsKeyboardFocusable:	true
+HasKeyboardFocus:	true
+AccessKey:	"Alt+a"
+ProcessId:	36340
+RuntimeId:	[2A.11154]
+AutomationId:	"1005"
+FrameworkId:	"Win32"
+ClassName:	"Button"
+NativeWindowHandle:	0x11154
+ProviderDescription:	"[pid:34976,providerId:0x11154 Main:Nested [pid:36340,providerId:0x11154 Annotation(parent link):Microsoft: Annotation Proxy (unmanaged:UIAutomationCore.dll); Main:Microsoft: MSAA Proxy (unmanaged:UIAutomationCore.dll)]; Nonclient:Microsoft: Non-Client Proxy (unmanaged:uiautomationcore.dll); Hwnd(parent link):Microsoft: HWND Proxy (unmanaged:uiautomationcore.dll)]"
+IsPassword:	false
+HelpText:	""
+IsDialog:	false
+LegacyIAccessible.ChildId:	0
+LegacyIAccessible.DefaultAction:	"Check"
+LegacyIAccessible.Description:	""
+LegacyIAccessible.Help:	""
+LegacyIAccessible.KeyboardShortcut:	"Alt+a"
+LegacyIAccessible.Name:	"I accept the terms in the license agreement"
+LegacyIAccessible.Role:	radio button (0x2D)
+LegacyIAccessible.State:	focused,checked,focusable (0x100014)
+LegacyIAccessible.Value:	""
+SelectionItem.IsSelected:	true
+IsAnnotationPatternAvailable:	false
+IsDragPatternAvailable:	false
+IsDockPatternAvailable:	false
+IsDropTargetPatternAvailable:	false
+IsExpandCollapsePatternAvailable:	false
+IsGridItemPatternAvailable:	false
+IsGridPatternAvailable:	false
+IsInvokePatternAvailable:	true
+IsItemContainerPatternAvailable:	false
+IsLegacyIAccessiblePatternAvailable:	true
+IsMultipleViewPatternAvailable:	false
+IsObjectModelPatternAvailable:	false
+IsRangeValuePatternAvailable:	false
+IsScrollItemPatternAvailable:	false
+IsScrollPatternAvailable:	false
+IsSelectionItemPatternAvailable:	true
+IsSelectionPatternAvailable:	false
+IsSpreadsheetItemPatternAvailable:	false
+IsSpreadsheetPatternAvailable:	false
+IsStylesPatternAvailable:	false
+IsSynchronizedInputPatternAvailable:	false
+IsTableItemPatternAvailable:	false
+IsTablePatternAvailable:	false
+IsTextChildPatternAvailable:	false
+IsTextEditPatternAvailable:	false
+IsTextPatternAvailable:	false
+IsTextPattern2Available:	false
+IsTogglePatternAvailable:	false
+IsTransformPatternAvailable:	false
+IsTransform2PatternAvailable:	false
+IsValuePatternAvailable:	false
+IsVirtualizedItemPatternAvailable:	false
+IsWindowPatternAvailable:	false
+IsCustomNavigationPatternAvailable:	false
+IsSelectionPattern2Available:	false
+FirstChild:	[null]
+LastChild:	[null]
+Next:	"I do not accept the terms in the license agreement" radio button
+Previous:	"" document
+Other Props:	Object has no additional properties
+Children:	Container has no children
+Ancestors:	"Windows Printer Drivers" dialog
+	"Windows Printer Drivers" dialog
+	"Desktop 1" pane
+	[ No Parent ]
