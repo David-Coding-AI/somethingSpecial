@@ -24,10 +24,10 @@ Given(/^The user has installed a driver on the system$/, function () {
     });
     I.wait(3);
     I.pressKey(["Alt","a"]);
-    I.click(installer.nextButton)
-    I.click(installer.nextButton)
+    I.click(installerPages.nextButton)
+    I.click(installerPages.nextButton)
     I.pressKey(["Alt","r"]);
-    I.click(installer.finishButton)
+    I.click(installerPages.finishButton)
 
     //I.click("//RadioButton[@Name='I accept the terms in the license agreement']");
     //I.click("  //Button[@Name='\\"Next >\\"' and @AutomationId='\"12324\"' and @ControlType='Button']\n")
