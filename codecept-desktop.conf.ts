@@ -12,7 +12,8 @@ exports.config = {
         newCommandTimeout: 800,
         unicodeKeyboard: true,
         waitForAppLunch: 15,
-        appTopLevelWindow: "00041A5C"  // ✅ padded hex string, must be a string
+        app: "C:\\Users\\dyurchuk\\Downloads\\Zebra.exe"
+        //appTopLevelWindow: "0xCC03AC"  // ✅ padded hex string, must be a string
       }
     }
   },
