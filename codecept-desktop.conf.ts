@@ -7,13 +7,12 @@ exports.config = {
       platform: "Windows",
       url: "http://127.0.0.1:4723",
       desiredCapabilities: {
-
         automationName: "Windows",
         platformName: "Windows",
         newCommandTimeout: 800,
         unicodeKeyboard: true,
         waitForAppLunch: 15,
-        app: "Root"
+        appTopLevelWindow: "00041A5C"  // ✅ padded hex string, must be a string
       }
     }
   },
